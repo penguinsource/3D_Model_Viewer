@@ -6,9 +6,9 @@
 Windows:
 
   By using Microsoft Visual C++
-    -> create new project (Win32 Console App) -> add main.cpp to 'Source Files' and the others to 'Header Files'
+    create new project (Win32 Console App) -> add main.cpp to 'Source Files' and the others to 'Header Files'
     
-    -> To feed an .obj file, go to Project -> Properties -> Configuration Properties -> Debugging -> Fill in command arguments.. (ex. skull.obj)
+    To feed an .obj file, go to Project -> Properties -> Configuration Properties -> Debugging -> Fill in command arguments.. (ex. skull.obj)
 
 Linux:   ( requires opengl libs )
 
