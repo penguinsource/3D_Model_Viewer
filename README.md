@@ -3,6 +3,7 @@
 
 3D model viewer for .OBJ files in C++ / OpenGL
 
+-------
 Windows:
 
   By using Microsoft Visual C++:
@@ -11,6 +12,7 @@ Windows:
     
   -> To feed an .obj file, go to Project -> Properties -> Configuration Properties -> Debugging -> Fill in command arguments.. (ex. skull.obj)
 
+-------
 Linux:   ( requires opengl libs )
 
   Use the makefile provided (type 'make').
