@@ -21,7 +21,7 @@ Linux:   ( requires opengl libs )
   
   ./modelviewer filename.obj
 
--------
+=====================
 Model Viewer Commands
 
 character 'v' sets the viewing projection to orthographic
